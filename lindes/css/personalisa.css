@@ -13,4 +13,16 @@ header {
 
 footer {
     background-color: black;
+    text-align: center;
+}
+
+.conteiner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img {
+    width: 75%;
+    
 }
